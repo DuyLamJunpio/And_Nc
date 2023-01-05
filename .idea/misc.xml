@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/a/.gradle/caches/transforms-3/f0a2cda29e45ee05e79d94f6d39dcdc9/transformed/LearnosetNavigationBar-3.38/res/drawable-anydpi-v21/favourite_icon.xml" value="0.1485" />
+        <entry key="..\:/Users/a/.gradle/caches/transforms-3/f0a2cda29e45ee05e79d94f6d39dcdc9/transformed/LearnosetNavigationBar-3.38/res/drawable-anydpi-v21/share_icon.xml" value="0.151" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable-v24/border_text_favourites.xml" value="0.159" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable-v24/border_text_login.xml" value="0.126" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable-v24/dynamic_island.xml" value="0.159" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/boderphoto.xml" value="0.135" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/border_btndownload.xml" value="0.151" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/border_frame_4.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/border_linerlayout.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/border_login.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/border_next.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/border_pre.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/border_text_news.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/border_textdownload.xml" value="0.151" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/borderslideshow.xml" value="0.135" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/custom_circle.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/frame_4.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/frame_5.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.151" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.151" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/ic_baseline_picture_in_picture_alt_24.xml" value="0.151" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/ic_baseline_skip_next_24.xml" value="0.151" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/ic_baseline_skip_previous_24.xml" value="0.151" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/line.xml" value="0.1485" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/drawable/yvette_de_w.xml" value="0.135" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/activity_cap_nhat_avatar.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/activity_login.xml" value="0.1936725096194955" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/activity_main3.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/activity_playing_now.xml" value="0.176" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_account_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_business_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_current__affairs_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_digitization_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_down_load_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_education_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_entertainment_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_farourites__news_.xml" value="0.128" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_favourites_.xml" value="0.2" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_featured__news_.xml" value="0.264" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_health_.xml" value="0.1" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_home__newspaper_.xml" value="0.2" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_latest_.xml" value="0.264" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_laugh_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_law_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_library__music_.xml" value="0.264" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_life_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_music_.xml" value="0.264" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_newest_.xml" value="0.264" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_news_.xml" value="0.176" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_profile_.xml" value="0.2" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_science_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_slide__show_.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_sport_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_start_up_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_travel_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_uri_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_vehicle_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_web_.xml" value="0.1936725096194955" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/fragment_world_.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/layout_photo.xml" value="0.2" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/layoutaccount.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/layoutitem_music.xml" value="0.264" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/layout/layoutitem_news.xml" value="0.264" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/menu/main_menu.xml" value="0.20436083796494228" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/menu/menuoption.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/Android Nang Cao/My Relax Star/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1485" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

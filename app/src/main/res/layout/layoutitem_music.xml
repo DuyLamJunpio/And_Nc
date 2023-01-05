@@ -1,0 +1,58 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/frame_5"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:gravity="center_vertical"
+    android:onClick="songPicked"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/frame_5"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/imgAvtSong"
+        android:layout_marginLeft="40dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@mipmap/ic_launcher_round"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/song_title"
+            android:layout_width="182dp"
+            android:layout_height="19dp"
+            android:text="@string/app_name"
+            android:textSize="16sp"
+            android:layout_marginLeft="15dp"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/song_artist"
+            android:layout_width="182dp"
+            android:layout_height="19dp"
+            android:text="@string/app_name"
+            android:textSize="14sp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#605E5E"/>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imgTym"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/ic_baseline_favorite_border_24"/>
+
+    </FrameLayout>
+
+</LinearLayout>

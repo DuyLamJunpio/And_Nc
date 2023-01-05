@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/SignUp_Activity"
+    android:background="@drawable/img_profile"
+    tools:context=".Activity.SignUp_Activity">
+
+    <ProgressBar
+        android:layout_gravity="center"
+        android:id="@+id/idProgressBarSignUp"
+        style="@android:style/Animation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:progress="25"/>
+
+    <LinearLayout
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#4D000000"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/idLayout1"
+            android:layout_marginTop="410dp"
+            android:layout_width="253dp"
+            android:layout_height="49dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/user"/>
+            <EditText
+                android:paddingLeft="10dp"
+                android:id="@+id/UserNameSignUp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="User name"
+                android:textColor="@color/white"
+                android:background="@null"
+                android:textColorHint="#B3FFFFFF"/>
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/idView1"
+            android:layout_width="253dp"
+            android:layout_height="1dp"
+            android:background="#B3FFFFFF" />
+
+        <LinearLayout
+            android:id="@+id/idLayout2"
+            android:layout_marginTop="20dp"
+            android:layout_width="253dp"
+            android:layout_height="49dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/lock"/>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <EditText
+                    android:paddingLeft="10dp"
+                    android:id="@+id/UserPassSignUp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="Password"
+                    android:textColor="@color/white"
+                    android:background="@null"
+                    android:inputType="textPassword"
+                    android:textColorHint="#B3FFFFFF"/>
+
+                <ImageView
+                    android:id="@+id/showPass"
+                    android:layout_gravity="end|center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/invisible"/>
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/idView2"
+            android:layout_width="253dp"
+            android:layout_height="1dp"
+            android:background="#B3FFFFFF" />
+
+        <LinearLayout
+            android:id="@+id/idLayout3"
+            android:layout_marginTop="20dp"
+            android:layout_width="253dp"
+            android:layout_height="49dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/lock"/>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <EditText
+                    android:paddingLeft="10dp"
+                    android:id="@+id/RePassSignUp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="Enter the password"
+                    android:background="@null"
+                    android:textColor="@color/white"
+                    android:inputType="textPassword"
+                    android:textColorHint="#B3FFFFFF"/>
+
+                <ImageView
+                    android:id="@+id/showRePass"
+                    android:layout_gravity="end|center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/invisible"/>
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/idView3"
+            android:layout_width="253dp"
+            android:layout_height="1dp"
+            android:background="#B3FFFFFF" />
+
+        <TextView
+            android:id="@+id/idSignUpAcount"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:layout_width="253dp"
+            android:layout_height="45dp"
+            android:text="Sign Up"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:background="@drawable/border_login"
+            android:textColor="@color/white"/>
+
+        <LinearLayout
+            android:layout_marginTop="80dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/idSign_In"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:text="Do you already have an account?"
+                android:textColor="#B3FFFFFF"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>

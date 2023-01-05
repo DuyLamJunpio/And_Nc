@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragment.Fragment_news_type.Newest_Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/id_viewpager2"
+            android:layout_width="370dp"
+            android:layout_height="226.69dp"
+            app:cardCornerRadius="25dp"
+            android:layout_marginTop="20dp"/>
+
+
+        <me.relex.circleindicator.CircleIndicator3
+            android:id="@+id/id_Cirle_Indicator3"
+            android:layout_width="wrap_content"
+            app:ci_drawable="@drawable/custom_circle"
+            android:layout_height="40dp"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:paddingBottom="40dp"
+            android:id="@+id/idRcv_Newest"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+
+</FrameLayout>

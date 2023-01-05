@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragment.Fragment_Newspaper.Home_Newspaper_Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:filterTouchesWhenObscured="true"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="10"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.7"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_baseline_home_24"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_weight="8.6"
+                android:id="@+id/news_daily"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="News Daily"
+                android:textSize="25.2sp"
+                android:textColor="#FF0707"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.7"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_baseline_search_24"/>
+
+        </LinearLayout>
+
+        <com.google.android.material.tabs.TabLayout
+            android:layout_marginTop="10dp"
+            android:id="@+id/idTabLayOut"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/idViewPager2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</FrameLayout>
